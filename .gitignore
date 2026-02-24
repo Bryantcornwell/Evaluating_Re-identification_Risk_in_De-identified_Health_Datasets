@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+.venv
+.idea
+auxil
+.aux
+.log
+.out
+.synctex(busy)
+
+# Work in progress
+work_in_progress.ipynb
+privacy_utility_tradeoff.png
+main.py
+
+# Temporary until LaTeX is finished
+Documentation.tex
+.pdf
+out
