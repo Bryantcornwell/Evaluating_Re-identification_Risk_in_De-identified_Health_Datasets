@@ -1,4 +1,4 @@
-# Evaluating Re-identification Risk in De-identified Health datasets
+# Evaluating Re-identification Risk in De-identified Health Datasets
 ## Project Overview
 In the healthcare ecosystem, the ability to share data for research is often difficult due to the highly sensitive nature and HIPAA law to protect patient privacy. By simulating a Real-World Data (RWD) scenario, I evaluate how de-identification via multiplicative noise affects the validity of clinical interaction effects while measuring the mitigation of linkage attack risks.
 
